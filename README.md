@@ -5,7 +5,7 @@ Github repository: https://github.com/Aly024/beecrowd_beginner_python3
 
 Facebook page: https://web.facebook.com/codespathshala
 
-Facebook group:www.facebook.com/groups/codespathshala/
+Facebook group: www.facebook.com/groups/codespathshala/
 
 Join our Facebook group and be a part of the problem solver community.
 
