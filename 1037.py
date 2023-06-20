@@ -17,7 +17,7 @@ while i in range(4):
         break
 
     elif LB <= val <= UB:
-        if val == 25:
+        if val <= 25:    # It was if val == 25: previously. Thanx to Yasin Hayat Khan for solving it. Student of IIUC EEE Dept.
             lb_sign = '['
         print(f'Intervalo {lb_sign}{LB},{UB}{ub_sign}')
         break
