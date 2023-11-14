@@ -1,5 +1,5 @@
 # beecrowd_beginner_python3
-This repository contains the solution to the problems of beginner level in python3 of beecrowd
+This repository contains the solution to the problems of beginner level in python3 of Beecrowd formerly know as URI Judge
 
 Github repository: https://github.com/Aly024/beecrowd_beginner_python3 
 
