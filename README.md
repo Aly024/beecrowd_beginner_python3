@@ -3,7 +3,7 @@ This repository contains the solution to the problems of beginner level in pytho
 
 Github repository: https://github.com/Aly024/beecrowd_beginner_python3 
 
-#############################################################################################################################
+###########################################################################################################
 Youtube playlist: 
 
 Old Playlist 
@@ -14,7 +14,7 @@ New Playlist
 Currently Active
 https://www.youtube.com/@adhar_code
 
-#############################################################################################################################
+########################################################################################################### 
 Other repositories of Beecrowd solution that I seek help from
 1. https://github.com/mcavalca/uri-python
 2. https://github.com/joy1954islam/uri-problem-solution-in-python
