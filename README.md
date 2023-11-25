@@ -22,4 +22,5 @@ Other repositories of Beecrowd solution that I seek help from
 2. https://github.com/joy1954islam/uri-problem-solution-in-python
 3. https://github.com/MayaraMachado/URI---Python-3
 4. https://github.com/brenonf/URI-python-3
-5. https://github.com/RatulAlMamun/URI-Solution/tree/master 
+5. https://github.com/RatulAlMamun/URI-Solution/tree/master
+6. https://github.com/gustavonikov/URI_problems
