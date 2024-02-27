@@ -26,3 +26,4 @@ Other repositories of Beecrowd solution that I seek help from
 6. https://github.com/gustavonikov/URI_problems
 7. https://github.com/bonizario/uri-solutions/tree/master/problems/python
 8. https://github.com/Boombarm/onlinejudge/tree/master/Python/src/uri_beecrowd/BEGINNER
+9. https://github.com/gabzintav/beecrowd 
